@@ -1,0 +1,20 @@
+{
+  "name": "docker-demo",
+  "version": "1.0.0",
+  "description": "A sample repository used for implementing the concepts of Git/GitHub and Docker in a remote collaborative environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faseeh-Qureshi/Docker-Demo.git"
+  },
+  "keywords": [],
+  "author": "Muhammad Faseeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faseeh-Qureshi/Docker-Demo/issues"
+  },
+  "homepage": "https://github.com/Faseeh-Qureshi/Docker-Demo#readme"
+}
