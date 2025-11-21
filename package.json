@@ -2,7 +2,7 @@
   "name": "docker-demo",
   "version": "1.0.0",
   "description": "A sample repository used for implementing the concepts of Git/GitHub and Docker in a remote collaborative environment.",
-  "main": "index.js",
+  "main": "src/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
