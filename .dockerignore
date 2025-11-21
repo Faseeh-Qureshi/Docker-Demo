@@ -1,0 +1,10 @@
+node_modules
+
+.parcel-cache
+
+dist
+
+.git
+gnore IDE files (VS Code)
+
+.vscode
