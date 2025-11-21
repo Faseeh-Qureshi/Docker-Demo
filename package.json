@@ -2,9 +2,11 @@
   "name": "docker-demo",
   "version": "1.0.0",
   "description": "A sample repository used for implementing the concepts of Git/GitHub and Docker in a remote collaborative environment.",
-  "main": "src/index.html",
+
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --dist-dir dist"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Faseeh-Qureshi/Docker-Demo/issues"
   },
-  "homepage": "https://github.com/Faseeh-Qureshi/Docker-Demo#readme"
+  "homepage": "https://github.com/Faseeh-Qureshi/Docker-Demo#readme",
+  "dependencies": {
+    "parcel": "^2.16.1"
+  }
 }
