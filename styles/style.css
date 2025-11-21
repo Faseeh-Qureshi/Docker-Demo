@@ -8,7 +8,7 @@ body {
 
 /* Navbar */
 nav {
-    background: #444;
+    background: #333;
     padding: 15px 0;
 }
 
@@ -32,7 +32,7 @@ nav ul li a {
 
 nav ul li a:hover,
 nav ul li a.active {
-    background: #2196f3;
+    background: #ff9800;
     border-radius: 5px;
     color: white;
 }
@@ -57,3 +57,4 @@ nav ul li a.active {
     font-size: 18px;
     color: #555;
 }
+
